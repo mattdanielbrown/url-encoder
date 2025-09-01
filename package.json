@@ -42,7 +42,7 @@
     "gulp-rename": "2.0.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.58.3",
-    "stylelint": "^13.0.0",
+    "stylelint": "^14.0.0",
     "stylelint-config-standard": "^19.0.0"
   }
 }
